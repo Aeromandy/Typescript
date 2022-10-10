@@ -20,10 +20,9 @@ generico = 6.89;
 const listaDeNomes = ['João', 'Antonio', 'Carlos'];
 listaDeNomes.push('Roberto');
 const notas = [1, 2, 3, 4, 5];
-notas.push('Maria');
+//notas.push('Maria')
 const valores = ['abcdef', 77, '8765479', 98765];
 // <> generic
 const arr = [true, false, false, true, true, false];
 const lista = [1, true, {}, [], 'jsuhuhuh'];
-let listaPodeTudo = [1, true, {}, [], 'jsuhuhuh'];
-console.log(listaPodeTudo);
+const lista2 = [1, true, {}, [], 'jsuhuhuh'];
